@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web
+build_property.RootNamespace = Web
+build_property.ProjectDir = C:\Users\Leandro\Desktop\Prueba\NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3\Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Leandro\Desktop\Prueba\NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3\Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Chat/Chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxDaGF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Login/CrearCuenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXJDdWVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Login/OlvidoClave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cT2x2aWRvQ2xhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Login/RecuperarCuenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVjdXBlcmFyQ3VlbnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Productos/Partial/ProductosAddPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFBhcnRpYWxcUHJvZHVjdG9zQWRkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Productos/Productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFByb2R1Y3Rvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Roles/Partial/RolesAddPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcUGFydGlhbFxSb2xlc0FkZFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Roles/Roles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcUm9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Servicios/Partial/ServiciosAddPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXFBhcnRpYWxcU2VydmljaW9zQWRkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Servicios/Servicios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXFNlcnZpY2lvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Usuarios/Partial/UsuariosAddPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUGFydGlhbFxVc3Vhcmlvc0FkZFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Usuarios/Usuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcVXN1YXJpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leandro/Desktop/Prueba/NET_INTERMEDIO-330617555db0f3390ed1f0c75202d4ba845765e3/Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll
